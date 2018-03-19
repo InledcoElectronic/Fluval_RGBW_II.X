@@ -1,0 +1,27 @@
+#
+# Generated - do not edit!
+#
+# NOCDDL
+#
+CND_BASEDIR=`pwd`
+# default configuration
+CND_ARTIFACT_DIR_default=dist/default/production
+CND_ARTIFACT_NAME_default=Fluval_RGBW_II.X.production.hex
+CND_ARTIFACT_PATH_default=dist/default/production/Fluval_RGBW_II.X.production.hex
+CND_PACKAGE_DIR_default=${CND_DISTDIR}/default/package
+CND_PACKAGE_NAME_default=fluvalrgbwii.x.tar
+CND_PACKAGE_PATH_default=${CND_DISTDIR}/default/package/fluvalrgbwii.x.tar
+# Program_Bootloader_Application configuration
+CND_ARTIFACT_DIR_Program_Bootloader_Application=dist/Program_Bootloader_Application/production
+CND_ARTIFACT_NAME_Program_Bootloader_Application=Fluval_RGBW_II.X.production.hex
+CND_ARTIFACT_PATH_Program_Bootloader_Application=dist/Program_Bootloader_Application/production/Fluval_RGBW_II.X.production.hex
+CND_PACKAGE_DIR_Program_Bootloader_Application=${CND_DISTDIR}/Program_Bootloader_Application/package
+CND_PACKAGE_NAME_Program_Bootloader_Application=fluvalrgbwii.x.tar
+CND_PACKAGE_PATH_Program_Bootloader_Application=${CND_DISTDIR}/Program_Bootloader_Application/package/fluvalrgbwii.x.tar
+# Update_Application configuration
+CND_ARTIFACT_DIR_Update_Application=dist/Update_Application/production
+CND_ARTIFACT_NAME_Update_Application=Fluval_RGBW_II.X.production.hex
+CND_ARTIFACT_PATH_Update_Application=dist/Update_Application/production/Fluval_RGBW_II.X.production.hex
+CND_PACKAGE_DIR_Update_Application=${CND_DISTDIR}/Update_Application/package
+CND_PACKAGE_NAME_Update_Application=fluvalrgbwii.x.tar
+CND_PACKAGE_PATH_Update_Application=${CND_DISTDIR}/Update_Application/package/fluvalrgbwii.x.tar

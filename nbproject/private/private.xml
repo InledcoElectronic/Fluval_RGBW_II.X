@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="Group_BLE_Hagen">
+            <file>file:/Users/liruya/MPLABXProjects/Fluval_RGBW_II/Fluval_RGBW_II.X/src/eusart.c</file>
+            <file>file:/Users/liruya/MPLABXProjects/Fluval_RGBW_II/Fluval_RGBW_II.X/src/ble.c</file>
+            <file>file:/Users/liruya/MPLABXProjects/Fluval_RGBW_II/Fluval_RGBW_II.X/src/comman.h</file>
+            <file>file:/Users/liruya/MPLABXProjects/Fluval_RGBW_II/Fluval_RGBW_II.X/src/ble.h</file>
+            <file>file:/Users/liruya/MPLABXProjects/Fluval_RGBW_II/Fluval_RGBW_II.X/src/led.c</file>
+            <file>file:/Users/liruya/MPLABXProjects/Fluval_RGBW_II/Fluval_RGBW_II.X/src/led.h</file>
+            <file>file:/Users/liruya/MPLABXProjects/Fluval_RGBW_II/Fluval_RGBW_II.X/src/comman.c</file>
+            <file>file:/Users/liruya/MPLABXProjects/Fluval_RGBW_II/Fluval_RGBW_II.X/src/tmr.c</file>
+        </group>
+        <group/>
+    </open-files>
+</project-private>
